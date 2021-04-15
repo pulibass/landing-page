@@ -200,6 +200,7 @@ label {
         align-items: flex-start;
         border-spacing: 15px;
         border-top: 2px solid white;
+        border-bottom: 2px solid white;
         height: 50px;
         justify-content: center;
     }
